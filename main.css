@@ -21,10 +21,10 @@
 
 .home-name {
     font-family: 'Figtree', sans-serif;
-    color: #ECDBBA;
+    color: #E8AA42;
 }
 
-.home-link {
+.home-link, .port-proj-text {
     color: white;
     text-decoration: none;
     font-family: 'Figtree', sans-serif;
@@ -33,7 +33,13 @@
 .vertical-center {
     min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
     min-height: 100vh; /* These two lines are counted as one :-)       */
-  
     display: flex;
     align-items: center;
 }
+
+.nav-center {
+    margin:0;
+    float:none;
+    text-align:center;
+}
+
