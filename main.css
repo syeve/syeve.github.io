@@ -50,7 +50,10 @@
     text-align:center;
 }
 
-hr {
-    opacity: 1;
+.resume-title {
+    color: #94B49F;
+    font-family: 'Figtree', sans-serif;
 }
+
+
 
