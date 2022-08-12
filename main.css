@@ -5,6 +5,13 @@
     transform: translateX(-50%);
 }
 
+.resume-box {
+    position: absolute; 
+    left: 50%;
+    top: 15%;
+    transform: translateX(-50%);
+}
+
 .infobox-left {
     position: absolute; 
     left: 54%;
@@ -41,5 +48,9 @@
     margin:0;
     float:none;
     text-align:center;
+}
+
+hr {
+    opacity: 1;
 }
 
